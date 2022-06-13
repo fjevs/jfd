@@ -1,0 +1,6 @@
+package temperature;
+
+public enum TempScale {
+	CELSIISCELSIUS, FAHRENHEIT, KELVIN, RANKINE,
+	NEWTON, DELISLE, RÉAUMUR, RØMER, LEIDEN
+}
